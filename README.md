@@ -1,5 +1,6 @@
 # TD admin interface
 
+
 ## Installation
 
 * Installer https://python-poetry.org/
@@ -8,5 +9,9 @@
 * manage.py migrate
 * manage.py createsuperuser
 * manage.py runserver
+
+## Config
+
+* DB sqlite
 
 Python version: 3.9
